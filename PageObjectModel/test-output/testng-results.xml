@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T15:52:21 IST" name="Suite" finished-at="2022-07-28T15:53:03 IST" duration-ms="41370">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T15:52:21 IST" name="Test" finished-at="2022-07-28T15:53:03 IST" duration-ms="41370">
+      <class name="com.application.test.TestCaseOne">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.application.test.TestCaseOne@71def8f8]" started-at="2022-07-28T15:52:20 IST" name="setup" finished-at="2022-07-28T15:52:21 IST" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcasevalidateLogin()[pri:0, instance:com.application.test.TestCaseOne@71def8f8]" started-at="2022-07-28T15:52:21 IST" name="testcasevalidateLogin" finished-at="2022-07-28T15:53:03 IST" duration-ms="41336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasevalidateLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.application.test.TestCaseOne@71def8f8]" started-at="2022-07-28T15:53:03 IST" name="teardown" finished-at="2022-07-28T15:53:04 IST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.application.test.TestCaseOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
